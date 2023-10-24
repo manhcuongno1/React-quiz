@@ -1,0 +1,123 @@
+{
+    "questions": [
+        {
+            "question": "Bạn Cường thích ăn gì nhất?",
+            "options": ["Cơm", "Phở", "Bún chả", "Bánh mì"],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Bạn Cường thích màu gì nhất?",
+            "options": ["Xanh dương", "Đỏ", "Vàng", "Tím"],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Bạn Cường thích chơi môn thể thao gì nhất?",
+            "options": ["Bóng đá", "Bóng chuyền", "Cầu lông", "Bơi lội"],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Bạn Cường thích xem phim thể loại gì nhất?",
+            "options": ["Hài kịch", "Tình cảm", "Hành động", "Kinh dị"],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Bạn Cường thích nghe nhạc thể loại gì nhất?",
+            "options": ["Nhạc Việt", "Nhạc Hàn", "Nhạc Âu Mỹ", "Nhạc Nhật"],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Bạn Cường mơ ước điều gì nhất?",
+            "options": [
+                "Trở thành bác sĩ",
+                "Trở thành giáo viên",
+                "Trở thành kỹ sư phần mềm",
+                "Trở thành nhà văn"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Bạn Cường thích đi du lịch ở đâu nhất?",
+            "options": ["Đà Lạt", "Sapa", "Phú Quốc", "Hội An"],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Bạn Cường là người như thế nào?",
+            "options": [
+                "Hòa đồng",
+                "Vui vẻ",
+                "Nhẹ nhàng",
+                "Tất cả các đáp án trên"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "Bạn Cường có người yêu chưa?",
+            "options": ["Có", "Không", "Bí mật"],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Bạn Cường có sở thích gì đặc biệt?",
+            "options": [
+                "Chơi game",
+                "Đọc sách",
+                "Nghe nhạc",
+                "Tất cả các đáp án trên"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "Bạn Cường có tài lẻ gì?",
+            "options": [
+                "Chơi đàn",
+                "Hát hò",
+                "Viết lách",
+                "Tất cả các đáp án trên"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "Bạn Cường có điểm yếu gì?",
+            "options": [
+                "Lười biếng",
+                "Dễ nổi nóng",
+                "Quá cầu toàn",
+                "Tất cả các đáp án trên"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "Bạn Cường có kỷ niệm đáng nhớ nhất với bạn?",
+            "options": [
+                "Chuyến du lịch Đà Lạt",
+                "Buổi sinh nhật lần thứ 18",
+                "Lễ tốt nghiệp cấp 3",
+                "Tất cả các đáp án trên"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "Bạn Cường muốn làm gì trong tương lai?",
+            "options": [
+                "Trở thành kỹ sư phần mềm",
+                "Mở công ty riêng",
+                "Định cư ở nước ngoài",
+                "Tất cả các đáp án trên"
+            ],
+            "correctOption": 3,
+            "points": 10
+        }
+    ]
+}
